@@ -1,0 +1,12 @@
+*.bmp
+*.png
+*.env
+*.jpg
+*.TIF
+*.txt
+
+.vscode/
+.idea/
+filters/
+__pycache__/
+cache/
